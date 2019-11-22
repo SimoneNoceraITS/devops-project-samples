@@ -2,6 +2,8 @@
 | -------- | -------- |--------|--------|
 | ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
 
+!
+
 
 # ASP.NET MVC application
 
